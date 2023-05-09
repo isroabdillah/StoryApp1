@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">login atau signup untuk melanjutkan</string>
+    <string name="title_welcome_page">WELL HALLOW!</string>
+    <string name="title_signup_page">bikin akun kamu disini</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan datamu</string>
+    <string name="title_login_page">Selamat Datang</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="email_warning">Format email salah</string>
+    <string name="password_warning">Password minimal 8 karakter</string>
+    <string name="name_warning">Silahkan isi namamu</string>
+    <string name="register_success">Pendaftaran berhasil</string>
+    <string name="register_fail">Pendaftaran gagal</string>
+    <string name="login_success">Berhasil masuk</string>
+    <string name="login_fail">Gagal masuk</string>
+    <string name="fail_load_stories">Cerita gagal dimuat</string>
+    <string name="success_load_stories">Cerita sukses dimuat</string>
+    <string name="permission_denied">Izin ditolak</string>
+    <string name="upload_success">Berhasil mengunggah</string>
+    <string name="upload_fail">Gagal mengunggah</string>
+    <string name="fail_take_picture">Gagal mengambil foto</string>
+    <string name="fail_show_camera">Gagal membuka kamera</string>
+<!--    <string name="failed_take">Failed to take picture</string>-->
+    <string name="picture">gambar</string>
+    <string name="back_camera">Ini kamera belakang</string>
+    <string name="failed_camera">Gagal mengaktifkan kamera</string>
+    <string name="select_image">Pilih gambar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="language">Bahasa</string>
+</resources>
